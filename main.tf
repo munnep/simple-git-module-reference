@@ -3,7 +3,7 @@
 # }
 
 module "test2" {
-  source = "git::github.com/munnep-practice/test"
+  source = "git::ssh://github.com/munnep-practice/test"
 }
 
 
