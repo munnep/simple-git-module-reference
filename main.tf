@@ -3,5 +3,5 @@
 # }
 
 module "test" {
-  source = "source = "git:github.com/munnep-practice/test"
+  source = "git:github.com/munnep-practice/test"
 }
