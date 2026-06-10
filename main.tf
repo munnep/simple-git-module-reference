@@ -6,6 +6,11 @@
 #   source = "git:github.com/munnep/null_resource"
 # }
 
+# module "test" {
+#   source = "git::ssh://git@github.com/munnep/null_resource.git"
+# }
+
+
 module "test" {
-  source = "git::ssh://git@github.com/munnep/null_resource.git"
+  source = "git::ssh://git@github.com/munnep-practice/test.git"
 }
