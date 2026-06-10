@@ -3,7 +3,7 @@
 # }
 
 module "test2" {
-  source = "git@github.com/munnep-practice/test.git"
+  source = "git@github.com:munnep-practice/test"
 }
 
 
