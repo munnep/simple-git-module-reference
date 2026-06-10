@@ -3,5 +3,5 @@
 # }
 
 module "test" {
-  source = "git::ssh://munnep@github.com/munnep-practice/test"
+  source = "source = "git:github.com/munnep-practice/test"
 }
